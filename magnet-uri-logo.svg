@@ -1,0 +1,22 @@
+<svg version='1.1' 
+	 baseProfile='full'
+	 xmlns='http://www.w3.org/2000/svg'
+	 width='80' height='88'
+	 viewBox='0,0,80,88'>
+	<g stroke='black'>
+		<path fill='#c73f27' 
+			  d='M10,60h20v-20a10,15,0,1,1,20,0v20h20v-30a30,25,0,0,0-60,0z'/>
+		<path fill='#00853e' d='M10,60h20v-10h-20z'/>
+		<path fill='#e5f274' d='M50,60h20v-10h-20z'/>
+	</g>
+	<text x='7.5' y='72' fill='blue' font-size='12' font-family='"Lucida Console",Monaco,monospace'>
+		1<!--
+		--><tspan dy='5' fill='cyan'>1</tspan><!--
+		--><tspan dy='-5'>0000</tspan><!--
+		--><tspan dy='13' fill='cyan'><!--
+			-->0<!--
+			--><tspan dy='-8'>1</tspan><!--
+		--></tspan><!--
+		--><tspan dy='-5'>0</tspan>
+	</text>
+</svg>
