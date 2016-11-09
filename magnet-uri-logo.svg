@@ -9,14 +9,7 @@
 		<path fill='#00853e' d='M10,60h20v-10h-20z'/>
 		<path fill='#e5f274' d='M50,60h20v-10h-20z'/>
 	</g>
-	<text x='7.5' y='72' fill='blue' font-size='12' font-family='"Lucida Console",Monaco,monospace'>
-		1<!--
-		--><tspan dy='5' fill='cyan'>1</tspan><!--
-		--><tspan dy='-5'>0000</tspan><!--
-		--><tspan dy='13' fill='cyan'><!--
-			-->0<!--
-			--><tspan dy='-8'>1</tspan><!--
-		--></tspan><!--
-		--><tspan dy='-5'>0</tspan>
+	<text x='7.5' y='72' fill='blue' font-size='12' dy="0,5,-5,0,0,0,13,-8,-5" font-family='"Lucida Console",Monaco,monospace'>
+		1<tspan fill="cyan">1</tspan>0000<tspan fill="cyan">01</tspan>0
 	</text>
 </svg>
